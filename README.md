@@ -14,5 +14,5 @@ pkus.klc is Windows keyboard layout file which can be installed by double-clicki
 
 # Note
 
-Ctrl- and Alt- combination follows QWERTY. Not by choice, but by lack of know-how.
+Ctrl- and Alt- combinations follow QWERTY. Not by choice, but by lack of know-how.
 
