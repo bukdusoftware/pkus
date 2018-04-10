@@ -1,4 +1,4 @@
-# prokey
+# pkus
 
 Programmer's keyboard layout.
 
