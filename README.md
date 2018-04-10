@@ -36,5 +36,5 @@ L (right ring)
 
 # Note
 
-Ctrl- and Alt- combinations follow QWERTY. Not by choice, but by lack of know-how.
+Ctrl- and Alt- combinations follow QWERTY. Not by choice, but by lack of know-how. If you know how, let me know. If you can contribute with Mac or Linux keyboard layout files, let me know.
 
